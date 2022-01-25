@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import { Mesh } from 'three';
-import { Text } from 'troika-three-text'
+import {Text} from 'troika-three-text';
 
 export class GUI extends Mesh{
 

@@ -11,7 +11,6 @@ export default defineConfig({
   plugins: [
     mkcert(),
     vitePluginString()
-  ],
-  assetsInclude: ['**/*.jpg']
+  ]
   
 })
